@@ -2,7 +2,7 @@
 
 ###  polytechnic student | linux enthusiast
 
-just a 2nd-year CSE student at LBSITW trying to figure out why my pointers are segfaulting at 3 AM. i live in the terminal and breathe low-level code.
+just a 2nd-year CSE student at LBSITW trying to figure out why my pointers are segfaulting at 3 AM. i live in the terminal.
 
 ---
 
@@ -16,7 +16,7 @@ just a 2nd-year CSE student at LBSITW trying to figure out why my pointers are s
 
 ### 📂 some of my shenanigans
 - **game-recommender-3000:** using logistic regression because why not?
-- **c-shenanigans:** where all my pointers go to die.
+- **library inventory mgmt:** i made it for my college. im planning to turn it into standalone app
 - **pretty-pastel-pink:** making firefox look less boring. link: https://addons.mozilla.org/en-US/firefox/addon/pretty-pastel-pink
 
 ---
