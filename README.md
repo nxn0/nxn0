@@ -2,7 +2,7 @@
 
 ###  polytechnic student | linux enthusiast
 
-just a 2nd-year CSE student at LBSITW trying to figure out why my pointers are segfaulting at 3 AM. i live in the terminal.
+just a 3rd-year CSE student at LBSITW trying to figure out why my pointers are segfaulting at 3 AM. i live in the terminal.
 
 ---
 
