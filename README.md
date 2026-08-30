@@ -9,7 +9,7 @@ just a 3rd-year CSE student at LBSITW trying to figure out why my pointers are s
 ### 🛠️ technical stuff
 - **languages:** C (the love of my life), Python, Java, basic web dev
 - **environments:** Arch Linux (btw), Gentoo, NixOS, Fedora, LFS
-- **currently messing with:** kernel compilation, seat allotment app for my college, and making my desktop look pretty
+- **currently messing with:** kernel compilation,and making my desktop look pretty
 
 
 ---
