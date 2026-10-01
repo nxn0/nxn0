@@ -1,29 +1,23 @@
+  ```
++----------------------------------------------------------------------------------+
+    name: nandana                                                                    
+    current education: 3rd year, polytechnic diploma in CSE
+    proficient in: C(intermediate), python(intermediate), java(beginner)
+                   HTML, CSS (beginner), SQL (beginner, again)
+    tagline: i have no tagline
+    projects: - pomly, a pomodoro app.
+              - aegis, an ai call detection app (both runs offline)
+              - a library inventory management system. (vanishing point)
+              - Linux from Scratch
+              - web based OS, for productivity
+              - pretty pink pastel theme (available on mozilla addons)
+    projects in progress: - unikernel inference engine (baremetal)
+                          - yet another ML framework in C
+                          - a kconfig generator (i dont know when but its in plans)
+    other stuff: art(intermediate, digital art, pixel art), DSA(beginner)
 
-
-###  polytechnic student | linux enthusiast
-
-just a 3rd-year CSE student at LBSITW trying to figure out why my pointers are segfaulting at 3 AM. i live in the terminal.
-
----
-
-### 🛠️ technical stuff
-- **languages:** C (the love of my life), Python, Java, basic web dev
-- **environments:** Arch Linux (btw), Gentoo, NixOS, Fedora, LFS
-- **currently messing with:** kernel compilation,and making my desktop look pretty
-
-
----
-
-### 📂 some of my shenanigans
-- **game-recommender-3000:** using logistic regression because why not?
-- **vanishing-point:** i made it for my college. im planning to turn it into standalone app
-- **pretty pastel pink:** making firefox look less boring. link: https://addons.mozilla.org/en-US/firefox/addon/pretty-pastel-pink
-
----
-
-### 📫 catch me here
-- **linkedin:** https://www.linkedin.com/in/nxn0
-- **discord:** nxndona
++-----------------------------------------------------------------------------------+
+```
 
 
 
