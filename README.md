@@ -10,6 +10,7 @@
               - a library inventory management system. (vanishing point)
               - Linux from Scratch
               - web based OS, for productivity
+              - camera app for desktops
               - pretty pink pastel theme (available on mozilla addons)
     projects in progress: - unikernel inference engine (baremetal)
                           - yet another ML framework in C
