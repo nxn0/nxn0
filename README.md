@@ -16,9 +16,10 @@
                           - yet another ML framework in C
                           - a kconfig generator (i dont know when but its in plans)
     other stuff: art(intermediate, digital art, pixel art), DSA(beginner)
+ 
 
 +-----------------------------------------------------------------------------------+
 ```
-
+   [`https://nxn0.github.io/`](portfolio)
 
 
