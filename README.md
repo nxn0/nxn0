@@ -2,8 +2,8 @@
 +----------------------------------------------------------------------------------+
     name: nandana                                                                    
     current education: 3rd year, polytechnic diploma in CSE
-    proficient in: C(intermediate), python(intermediate), java(beginner)
-                   HTML, CSS (beginner), SQL (beginner, again)
+    proficient in: C, python, java
+                   HTML, CSS, SQL 
     tagline: i have no tagline
     projects: - pomly, a pomodoro app.
               - aegis, an ai call detection app (both runs offline)
@@ -15,7 +15,7 @@
     projects in progress: - unikernel inference engine (baremetal)
                           - yet another ML framework in C
                           - a kconfig generator (i dont know when but its in plans)
-    other stuff: art(intermediate, digital art, pixel art), DSA(beginner)
+    other stuff: art(intermediate, digital art, pixel art), DSA
  
 
 +-----------------------------------------------------------------------------------+
